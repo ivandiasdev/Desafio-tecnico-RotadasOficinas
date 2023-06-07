@@ -11,21 +11,17 @@
 
 ## 💻 Pré-requisitos
 
-Esta aplicação utiliza o servidor local live server, certifique-se que você tem uma versão igual ou superior instalada em seu computador.
+Esta aplicação utiliza o servidor local live server, certifique-se que você tem uma versão igual ou superior instalada em seu computador.<br>
 Instalação do Live server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 ## 🚀 Clonando o projeto
 
 Abra seu terminal e digite os seguintes comandos:
 ```
-git https://github.com/ivandiasdev/Desafio-tecnico-RotadasOficinas
+git clone https://github.com/ivandiasdev/Desafio-tecnico-RotadasOficinas
 
-cd Desafio-tecnico-RotadasOficinas
 ```
 ## 🚀 Iniciando a aplicacação
-Com o projeto clonado em sua máquina e dentro do diretório `Desafio-tecnico-RotadasOficinas`, abra no Vs Code com o Live server instalado:
-
-Abra seu navegador `Google Chrome` e digite o seguinte link:
-[http://localhost:3000/](http://localhost:3000/)
+Com o projeto clonado em sua máquina e dentro do diretório `Desafio-tecnico-RotadasOficinas`, abra no Vs Code com o Live server instalado, clique com o botão direito no arquivo index.html e selecione a opção "abrir com o Live Server".
 
 Aguarde até que a aplicacação seja iniciada.
 
