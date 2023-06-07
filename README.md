@@ -12,7 +12,7 @@
 ## 💻 Pré-requisitos
 
 Esta aplicação utiliza o servidor local live server, certifique-se que você tem uma versão igual ou superior instalada em seu computador.
-
+Instalação do Live server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 ## 🚀 Clonando o projeto
 
 Abra seu terminal e digite os seguintes comandos:
