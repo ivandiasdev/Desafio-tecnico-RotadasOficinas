@@ -46,6 +46,6 @@ Aguarde até que a aplicacação seja iniciada.
 
 ## 📝 Licença
 
-Este projeto foi desenvolvido para resolução de um desafio técnico. Sendo assim, este projeto não está licenciado e não possui fins lucrativos, sendo feito apenas para fins de estudo dos colaborares.
+Este projeto foi desenvolvido para resolução de um desafio técnico. Sendo assim, este projeto não está licenciado e não possui fins lucrativos, sendo feito apenas para fins de estudo dos colaboradores.
 
 [⬆ Voltar ao topo](#Habitue)<br>
