@@ -35,9 +35,9 @@ Aguarde até que a aplicacação seja iniciada.
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/ivandevv/" target="_blank" rel="noopener noreferrer">
-        <img src="[https://ca.slack-edge.com/TDXK4RHFF-U02DS2K8TNX-04fa7e891184-512](https://media.licdn.com/dms/image/D4D03AQFFB74PYukBig/profile-displayphoto-shrink_200_200/0/1667316754223?e=1691625600&v=beta&t=S_OxlczME6lxlqDYN_pYhLbhr9DgYYFxej4V1mktsww)" width="100px;" alt="Foto do Ivan Dias"/><br>
+       <img src="https://media.licdn.com/dms/image/D4D03AQFFB74PYukBig/profile-displayphoto-shrink_200_200/0/1667316754223?e=1691625600&v=beta&t=S_OxlczME6lxlqDYN_pYhLbhr9DgYYFxej4V1mktsww" width="100px;" alt="Foto do Ivan Dias"/><br>
         <sub>
-          <b>Carlos Dias</b>
+          <b>Ivan Dias</b>
         </sub>
       </a>
     </td>
