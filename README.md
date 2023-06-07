@@ -22,7 +22,7 @@ git https://github.com/ivandiasdev/Desafio-tecnico-RotadasOficinas
 cd Desafio-tecnico-RotadasOficinas
 ```
 ## 🚀 Iniciando a aplicacação
-Com o projeto clonado em sua máquina e dentro do diretório `Desafio-tecnico-RotadasOficinas`, abra no Vs Code:
+Com o projeto clonado em sua máquina e dentro do diretório `Desafio-tecnico-RotadasOficinas`, abra no Vs Code com o Live server instalado:
 
 Abra seu navegador `Google Chrome` e digite o seguinte link:
 [http://localhost:3000/](http://localhost:3000/)
